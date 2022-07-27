@@ -1,5 +1,5 @@
 # Dice Roll Game
-Simple dice rolling game to play with your friend or collegue. If player get more than 20 scores, he/she wins!!!
+Simple dice rolling game to play with your friend or colleague. If player get more than 20 scores, he/she wins!!!
 
 ### Technology used
 
